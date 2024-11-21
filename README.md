@@ -1,6 +1,6 @@
-# RetroArch Session
+# RetroArch Flatpak Session
 
-This project provides session files for launching **RetroArch** as a standalone session in both **Wayland** and **X11** environments. It includes `.desktop` files compatible with most display managers (GDM, SDDM, etc.).
+This project provides session files for launching **RetroArch**, flatpak version, as a standalone session in both **Wayland** and **X11** environments. It includes `.desktop` files compatible with most display managers (GDM, SDDM, etc.).
 
 ## Features
 - Wayland session support
