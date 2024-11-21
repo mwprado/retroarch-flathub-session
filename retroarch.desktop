@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=RetroArch Session
 Comment=Run RetroArch as a standalone Wayland session
-Exec=retroarch
+Exec=flatpak run org.libretro.RetroArch
 Type=Application
 X-GDM-SessionType=wayland
 PrefersNonDefaultGPU=true  
