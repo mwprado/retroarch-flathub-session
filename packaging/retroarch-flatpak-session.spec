@@ -9,8 +9,6 @@ Source0:        %{url}/archive/refs/tags/v%{version}.tar.gz
 
 BuildArch:      noarch
 
-Requires:       retroarch
-
 %description
 This package provides session desktop files for RetroArch, flatpak version, allowing it to be launched as a standalone session in both Wayland and X11 environments.
 
