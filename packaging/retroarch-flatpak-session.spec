@@ -1,5 +1,5 @@
 Name:           retroarch-flatpak-session
-Version:        1.0.5
+Version:        1.0.6
 Release:        %autorelease
 Summary:        Wayland and X11 session desktop file for RetroArch
 
