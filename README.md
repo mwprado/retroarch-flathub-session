@@ -8,8 +8,5 @@ This project provides session files for launching **RetroArch**, flatpak version
 - Simplified setup for standalone RetroArch sessions
 
 ## Requirements
-1. A Wayland or X11-compatible display manager.
-2. The **RPM Fusion repository** must be enabled, as RetroArch is available there.
+A Wayland or X11-compatible display manager.
 
-### Enabling RPM Fusion
-To install RetroArch, first enable the RPM Fusion repository. Detailed instructions can be found at https://rpmfusion.org.
